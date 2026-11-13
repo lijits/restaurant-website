@@ -1,16 +1,45 @@
-# React + Vite
+# Savoria | Modern Restaurant Website 🍽️
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A mobile-responsive, modern restaurant web application built with React.js and Tailwind CSS, featuring interactive menus, dish showcases, and a clean dining user experience.
 
-Currently, two official plugins are available:
+## ✨ Features
+* **Fully Responsive Layout:** Seamless browsing across mobile, tablet, and desktop screens.
+* **Interactive Menu:** Organized food categories with dish descriptions, pricing, and visual highlights.
+* **Modern UI/UX:** Clean typography, smooth navigation, and appetizing visual presentation.
+* **Fast Performance:** Built and bundled with Vite for rapid load times.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Technologies Used
+* **React.js** – Component-based front-end architecture
+* **Tailwind CSS** – Utility-first styling and responsive design
+* **JavaScript (ES6+)** – Interactive UI logic and state handling
+* **Vite** – Fast development server and production bundler
 
-## React Compiler
+## 🚀 How to Run Locally
+1.Clone the repository:
+   ```bash
+  git clone https://github.com/lijits/restaurant-website.git
+    ```
+ 2.Navigate into the project folder:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ ```Bash
+cd restaurant-website
+ ```
+3.Install dependencies:
 
-## Expanding the Oxlint configuration
+ ```Bash
+npm install
+ ```
+4.Start the development server:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+
+ ```Bash
+npm run dev
+
+ ```
+## 🌐 Live Demo
+
+https://savoria-liji.netlify.app/
+## 👩‍💻 Author
+Liji T.S
+
+GitHub: [@lijits](https://github.com/lijits)
